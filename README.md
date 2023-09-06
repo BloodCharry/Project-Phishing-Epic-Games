@@ -15,5 +15,3 @@ If the captcha is not required or the auto-access was successful, then the serve
 If the authorization was successful, the session data is saved for later use in other requests on the Epic Games website.
 
 In case of an authorization error, an error message is displayed, the login and password are entered in the list of incorrect data, and authorization is repeated with other login and password data.
-
-In open access, I do not debug because this is an unscrupulous script, sorry.)
